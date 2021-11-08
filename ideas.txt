@@ -1,0 +1,78 @@
+Adding:
+
+
+
+
+
+
+
+
+			Logistics 4,5
+			Stack inserter 2
+			Fast inserter 2
+			Substation 2
+			Big Electric Pole 2
+			Logistic Robot 2
+			Construction Robot 2
+			Roboport 2
+			Adaptive Concrete - Consists of transport belts and refined concrete and maybe other parts? Very fast.
+			Repair Pack 2
+			Nuclear 2
+			Solar 2
+			Accumulator 2
+			Mining Drill 2
+			Pumpjack 2
+			Mining drill 2
+			Electric Furnace 2
+			Assembling Machine 4
+			Oil Refinery 2
+			Chemical Plant 2
+			Centrifuge 2
+			Lab 2
+			Speed 4
+			Speed 5
+			Eff 4
+			Eff 5
+			Prod 4
+			Prod 5
+			Rocket Silo 2
+			Advanced Satellite
+			Power Armor Mk3
+			Portable Antimatter Reactor
+			Personal battery mk3
+			exo mk2
+			roboport mk3
+			shield mk3
+			personal laser mk2
+			discharge mk2
+			Radar mk2
+			Radar mk3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maybe:
+Boxes
+Trains
+Spidertron
+Steam Power 2
+Beacon - increased range or more module capacity? or both? or combined?
+Extra Advanced oil processing??
+wall mk2
+gun turret mk2
+laser turret mk2
+flame turret mk2
+artillery mk2
+
+
